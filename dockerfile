@@ -1,5 +1,5 @@
 FROM python:3.9.6
-ENV TOKEN='7498326020:AAEgRWU5b_nlyXU-EanKv4j-fYzVQK602J8'
+ENV TOKEN='type_your_tocken_number'
 WORKDIR /app
 COPY . .
 RUN pip install -r requirements.txt
