@@ -1,6 +1,6 @@
 # Name mirror is a Telegram bot creating by Marina Pozhidaeva
 This bot was created as part of the Data Science program at Elbrus bootcamp. 
-The bot allows the user to obtain information about the transcription of a name in Cyrillic into Latin in accordance with the Order of the Ministry of Foreign Affairs of the Russian Federation dated 12.02.2020 N 2113.
+The bot allows the user to obtain information about the transcription of a name in Cyrillic into Latin in accordance with the rules of the Ministry of Foreign Affairs of the Russian Federation.
 
 Instructions for running the bot using Docker:
 
